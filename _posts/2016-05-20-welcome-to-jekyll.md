@@ -7,20 +7,12 @@ layout: post
 
 그러나 알렉스 퍼거슨 은퇴 이후인 13/14 시즌부터 10년동안 막장 구단주와 무능한 프런트의 방만한 운영으로 인하여 장기 침체기를 겪고 있다.
 
+23/24 시즌
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+리그 성적을 놓고 보면 역대 최악의 성적을 기록했고, 온갖 불명예 기록을 다 갱신하면서 처참하게 깨졌다. 전술적으로도, 선수들의 폼으로도, 그리고 분위기로도 전부 다 최악이었으며, 강팀은 물론 약팀에게도 가패를 당하면서 결국 보면 PL 출범 이후 최악의 순위인 8위로 마무리했고, 리그 최다패에 골득실도 마이너스로 기록되면서 정말 부끄러운 기록을 남기게 되었다.
 
-Jekyll also offers powerful support for code snippets:
+그리고 이러한 성적을 기반으로 다음 시즌 유럽 대항전을 출전 못할 뻔했으나 정말 다행스럽게도 FA 컵 우승을 차지하면서 기적적으로 다음 시즌 유로파 진출을 할 수 있게 되었다. 물론 이번 시즌 성적만 봐도 알 수 있듯이 이러한 경기력을 다음 시즌에도 보여준다면 그때부터는 지금보다도 더한 참사를 볼 수 있기에 이번 시즌을 바탕으로 다음 시즌을 단단히 준비해야 되는 상황이다.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
