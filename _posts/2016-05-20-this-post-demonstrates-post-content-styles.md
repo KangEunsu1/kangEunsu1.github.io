@@ -56,92 +56,64 @@ author:
 
 빅토르 린델로프(2), 해리 매과이어(5), 리산드로 마르티네즈(6), 라파엘 바란(19), 디오고 달로(20), 루크 쇼(23), 아론 완-비사카(29), 조니 에반스(35)
 
+빅토르 린델로프(2) : 부상으로 많은 경기를 뛰지 못하였다. 전 시즌들에 비하여 노쇠화가 되었고, 장점이던 빌드업 또한 좋지 못한 모습을 보여주었다. 약점이던 공중볼에 고난했으며 민첩성 또한 떨어진 모습을 보여주어 24/25 시즌 매각 대상이다.
+
+해리 매과이어(5) : 맨체스터 유나이티드에서 안토니와 함께 최악의 민심을 가지고 시즌을 시작했다.
+시즌이 시작하고 수비진의 반 이상이 부상으로 나가 떨어졌고 어쩔 수 없이 매과이어가 선발 라인업에 이름을 올렸다. 우려와 달리 매과이어의 수비력은 좋았고, 장점이던 공중볼로 수비는 물론 공격 상황에서 좋은 모습을 보여주었다. 최악이었던 민심을 시즌 내내 실력으로 증명하였다.
+
+리산드로 마르티네즈(6) : 맨체스터 유나이티드 빌드업의 핵심이다. 하지만 시즌 초반 부상을 당하였고, 시즌 중반 무리하게 복귀를 시도하여 다시 몇 경기 나오지 못하고 부상을 당하였다. 하지만 나올 때마다 왜 이 선수가 빌드업의 핵심이고 전술의 핵심인지 보여주는 전진 패스와 뛰어난 수비력을 보여주어 몇 경기 나오지 못하였지만 왜 에릭 텐 하흐 감독의 본체라고 평가 받는지 보여주었다.
+
+라파엘 바란(19) : 맨체스터 유나이티드에서의 마지막 시즌이었지만 역시 부상으로 인하여 시즌 잘 나오지 못하였다. 나올때마다 뛰어난 활약을 보이지만 잦은 부상으로 인하여 나오지 못하는 상황이 많았다.
+시즌 마지막에 리산드로 마르티네즈와 복귀하여 FA컵 결승전에 좋은 활약으로 우승컵을 들어올렸다.
+
+디오고 달로(20) : 유일하게 23/24 시즌 맨체스터 유나이티드 수비진 중 풀타임을 소화한 선수이다.
+22/23 시즌부터 기량이 오르기 시작했으며 지금은 선발 라인업에 항상 이름이 올라가있는 선수이다.
+탈압박, 패스, 오버래핑, 슛, 공중볼 모두 좋은 모습을 보여주었고 우상향하고 있는 실력을 보여주고 있다.
+24/25 시즌에 더 좋은 활약을 기대할 수 있을 것이다.
+
+아론 완-비사카(29) : 유연한 드리블로 상대를 탈압박하는 능력은 좋으나 그 이후에 패스, 판단력은 좋지 못하다. 여전히 수비력, 태클은 최상위 클래스이다. 좋은 제의가 들어온다면 판매 대상이다.
+
+조니 에반스(35) : 많은 나이에 맨체스터 유나이티드로 다시 돌아왔다. 시즌 시작전은 플레잉 코치의 느낌으로 영입을 했다고 생각했지만 맨체스터 유나이티드 수비수들의 부상으로 인해 주전급으로 많은 경기를 뛰게 되었다. 본인도 그정도로 뛸줄은 상상도 못했을 것이다. 베타랑 답게 준수한 수비력, 수비 조율 능력을 보여주었으며 다음 시즌도 재계약 할 것으로 예상된다.
 
 
-### 맨체스터 유나이티드 골키퍼 (h3)
+### 맨체스터 유나이티드 골키퍼 
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+알타이 바이은드르(1), 톰 히튼(22), 안드레 오나나(24)
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
+알타이 바이은드르(1) : 맨체스터 유나이티드의 세컨 키퍼이다. 한 경기 나왔으며 그냥 준수했다. 한 경기 밖에 나오지 않아 평가를 못한다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+톰 히튼(22) : 맨체스터 유나이티드의 서드 키퍼이다. 세컨 키퍼가 한 경기 나왔다. 서드 키퍼는 당연히 못나왔다.
 
-### 다가오는 이적시장 (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+안드레 오나나(24) : 맨체스터 유나이티드의 주전 골키퍼이다. 골키퍼 치곤 뛰어난 발밑을 가졌으며 짧은 패스, 긴 패스 정확도가 유럽 전체 탑급이다. 시즌 초반 최악의 선방 능력을 보여주었지만 시간이 지나며 맨체스터 유나이티드의 수비진이 붕괴하며 강제로 스텝업하게 되는 모습을 보여준다. 시즌 후반 가끔 나오는 어처구니 없는 실수를 제외하면 뛰어난 선방 능력을 보여주게 된다.
 
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+### 다가오는 이적시장 
 
-#### You might want a sub-subheading (h4)
+23/24 시즌에서 맨체스터 유나이티드는 굉장히 많은 약점, 부족한 선수단의 능력을 확인할 수 있다.
+유망하지만 그저 유망주일 뿐인 공격수, 여전히 답이 안보이는 안토니, 뇌없는 플레이의 래시포드, 노쇠화 된 에릭센, 카세미루와 린델로프, 이번 시즌 이후 떠나는 라페엘 바란 등의 문제가 발생한다.
+24/25 시즌 많은 매각과 영입이 있을 것으로 보인다.
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+내가 예상하는 이적시장
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+OUT : 안토니 마샬, 메이슨 그린우드, 크리스티안 에릭센, 카세미루, 스콧 맥토미니, 빅토르 린델로프, 라파엘 바란
 
-#### But it's probably overkill (h4)
+계약 기간이 만료된 안토니 마샬, 라파엘 바란은 이미 마지막 인사를 나누었다.
+기량이 하락된 크리스티안 에릭센, 카세미루, 빅토르 린델로프는 적당한 금액에 매각이 될 것이다. 카세미루는 사우디 리그에서 관심을 가지고 있으며 에릭센과 린델로프는 팀을 찾는다고 마음만 먹는다면 찾을 수 있을 것이다.
+메이슨 그린우드는 영국내의 복귀가 불가능해 보인다.
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
-##### Could be a smaller sub-heading, `pacman` (h5)
+IN : 장클레르 토디보(수비), 케르케즈 밀로시(수비), 레니 요로(수비), 주앙 네베스(미드필더), 마이클 올리세(공격)
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+맨체스터 유나이티드는 린델로프와 바란의 이탈로 2명의 센터백을 구해야 한다. 장클레르 토디보는 현재 맨체스터 유나이티드이 구단주 이네오스의 다른 팀 니스에서 좋은 활약을 보이고 있다. 니스와 이네오스의 관계를 생각해보면 좋은 가격으로 영입을 할 수 있을 것이다. 레니 요로 또한 어린 나이에서 좋은 활약을 보여주고 있는 수비수 이다.
+마이클 올리세는 크리스탈 팰리스에서 좋은 활약을 보였다. 이네오스가 올리세를 주시하고 있으며 올리세 또한 팀을 옮길 준비를 마쳤다. 부상이력이 걱정이지만 부상만 방지한다면 맨체스터 유나이티드의 부족한 오른쪽 윙어 걱정을 해소시켜줄 선수이다.
+맨체스터 유나이티디는 여름 이적시장에서 항상 빅영입을 해왔다. 이번 빅네임 영입을 주앙 네베스가 되지 않을까 생각한다. 네베스는 어린나이로 벤피카에서 엄청난 활약을 보여주고 있다. 맨체스터 유나이티드에서 주앙 네베스의 능력은 코비 마이누의 짝으로 적합하다.
 
-###### Small yet significant sub-heading  (h6)
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+애매 : 안토니, 마커스 래시포드
 
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
+안토니와 마커스 래시포드에게 맨체스터 유나이티드를 만족시킬 수 있는 오퍼가 들어오지 않을 것 같다.
+이 둘은 최악의 시즌을 보냈고 마커스 래시포드는 한번씩 괜찮은 시즌을 보내지만 안토니는 보여준 것이 없기 때문에 오퍼가 오지 않을 것으로 예상된다.
 
 
 
-## Headings are cool! (h2)
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
