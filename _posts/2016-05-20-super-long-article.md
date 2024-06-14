@@ -1,11 +1,46 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "현재 맨유 감독과 전술"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+에릭 텐 하흐(1970.02.02)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+감독경력
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+· 고 어헤드 이글스   (2012~2013)
+· FC 바이에른 뮌헨 II (2013~2015)
+· FC 위트레흐트 (2015~2017)
+· AFC 아약스 (2017~2022)
+· 맨체스터 유나이티드(2022~)
+
+
+
+아약스 시절
+
+18/19 시즌 아약스는 챔피언스 리그 4강까지 가는 돌풍을 일으킨다. 그 중심에는 프렝키 더 용, 마테이스 더리흐트, 데일리 블린트 등 좋은 선수들도 있었지만 에릭 텐 하흐 감독의 전술이 있었다.
+아약스 시절 선수들은 현재 좋은 선수들이지만 이 당시에는 그저 유망주 일 뿐이었다. 에릭 텐 하흐 감독은 이들을 데리고 어떠한 전술로 4강에 오를 수 있었을까?
+
+아약스는 수비 지역에서 부터 골키퍼인 안드레 오나나를 시작으로 수비수인 데일리 블린트, 마테이스 더리흐트를 통해 미드필더 프렝키 더용이 1차 빌드업의 핵심 역할을 하였고, 전방에서는 두샨 타디치가 만들어준 공간으로 공간 능력이 뛰어난 도니 판 더 비크가 침투하여 좋은 활약을 보였다.
+
+19/20 시즌 아약스는 많은 선수들의 판매를 하여 리빌딩을 진행하였고 다시 20/21 시즌 좋은 경기력을 보여주었다. 18/19 빌드업을 통한 축구와 달리 20/21시즌은 세바스티앵 알레의 제공권을 이용한 다이렉트한 전개를 하는 축구를 보여주어 전술의 유연성을 보여준 에릭 텐 하흐 감독이었다.
+
+공격 시 수적 우위를 가질 수 있도록 선수들의 동선을 정해주고 선수들 개개인의 창의성과 연계 플레이를 선호하는 감독이다.
+
+
+22/23 시즌 맨체스터 유나이티드
+
+시즌 첫 경기에서 아약스 시절의 강한 압박과 후방에서부터 짧은 패스의 빌드업을 도입하는 모습을 보여주었으나 브라이튼에게 1:2 패배를한다. 이후 경기에서는 다이렉트한 경기 전술을 보였으나 팀이 완전히 무너지며 브랜드포드에게 0:4 대패를 당한다. 다비드 데 헤아, 해리 매과이어 등 맨유 선수들에게는 짧은 패스로 이루어지는 빌드업은 맞지 않은 옷이었다.
+3라운드부터는 실리축구를 하게되는데 수비 라인을 낮추고 압박 강도를 줄이며 짧은 패스의 빌드업이아닌 전방의 역습 속도를 살릴 수 있는 공격 루트를 사용하게 된다. 롱 패스의 정확도가 좋은 후방 선수들이 있었으며 전방에는 그 패스를 받아 속도를 살릴 수 있는 맨체스터 유나이티드 선수들 이었기 때문에 이를 통한 전술을 22/23 시즌 사용하게 된다.
+최종 성적은 리그 3위로 챔피언스리그 진출과 리그컵을 들었다.
+
+
+23/24 시즌 맨체스터 유나이티드
+
+실리축구로 에릭 텐 하흐 감독의 전술 유연성을 확인하였고 23/24 시즌은 아약스 시절 축구를 볼 수 있을 것이라 생각하였지만 시즌 초부터 핵심 선수들을 포함하여 많은 선수들이 부상을 당하였고 시즌 초 구상은 완전히 무너지게 되었다. 선수들 개개인 능력은 최악이었고 공격과 수비의 라인 간격은 맞추어 지지 않아 전술로서의 한계까지 보여주게 된다. 중앙은 텅 비어있으며 상대팀은 쉽게 맨체스터 유나이티드의 패널티 박스까지 도달할 수 있게 되고 많은 슈팅을 허용하게 되었다. 선수들의 개개인 능력에 의존하는 상황이 되었고 아약스 시절의 축구는 전혀 찾아볼 수 없는 상황이 되었다.
+놀랍게도 이 시즌에서 FA컵 우승을 따게 되어 유로파 리그에 진출하게 된다.
+
+
+24/25 시즌 맨체스터 유나이티드
+
+팬들은 에릭 텐 하희 감독의 경질을 요구하였으나 마땅한 감독 매물이 없어 유임을 결정하게 된다.
